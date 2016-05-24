@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="158562" started-at="2016-05-18T09:05:23Z" finished-at="2016-05-18T09:08:02Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="158562" started-at="2016-05-18T09:05:23Z" finished-at="2016-05-18T09:08:02Z">
+      <class name="conferences.RecMeeting">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:conferences.RecMeeting@124753a]" name="setUp" is-config="true" duration-ms="6026" started-at="2016-05-18T14:36:02Z" finished-at="2016-05-18T14:36:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="open()[pri:0, instance:conferences.RecMeeting@124753a]" name="open" duration-ms="34858" started-at="2016-05-18T14:36:08Z" finished-at="2016-05-18T14:36:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:conferences.RecMeeting@124753a]" name="tearDown" is-config="true" duration-ms="443" started-at="2016-05-18T14:36:43Z" finished-at="2016-05-18T14:36:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- conferences.RecMeeting -->
+      <class name="conferences.SingleMeeting">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:conferences.SingleMeeting@ea639]" name="setUp" is-config="true" duration-ms="8211" started-at="2016-05-18T14:35:23Z" finished-at="2016-05-18T14:35:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="open()[pri:0, instance:conferences.SingleMeeting@ea639]" name="open" duration-ms="25444" started-at="2016-05-18T14:35:32Z" finished-at="2016-05-18T14:35:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:conferences.SingleMeeting@ea639]" name="tearDown" is-config="true" duration-ms="5399" started-at="2016-05-18T14:35:57Z" finished-at="2016-05-18T14:36:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- conferences.SingleMeeting -->
+      <class name="conferences.AllRecTypes">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:conferences.AllRecTypes@1a6e353]" name="setUp" is-config="true" duration-ms="5510" started-at="2016-05-18T14:36:44Z" finished-at="2016-05-18T14:36:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="open()[pri:0, instance:conferences.AllRecTypes@1a6e353]" name="open" duration-ms="72260" started-at="2016-05-18T14:36:49Z" finished-at="2016-05-18T14:38:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:conferences.AllRecTypes@1a6e353]" name="tearDown" is-config="true" duration-ms="401" started-at="2016-05-18T14:38:01Z" finished-at="2016-05-18T14:38:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- conferences.AllRecTypes -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
